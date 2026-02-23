@@ -16,4 +16,5 @@ Você pode executar os exercícios de três formas:
 3. No terminal, execute:
 
 ```bash
-node exercicios.js
+node Atividade-condicionais
+
